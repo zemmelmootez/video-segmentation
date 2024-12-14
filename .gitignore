@@ -1,0 +1,6 @@
+*.egg-info
+__pycache__/
+yolov5s.pt
+yolov5s-seg.pt
+yolov7seg\Lib\*
+Lib

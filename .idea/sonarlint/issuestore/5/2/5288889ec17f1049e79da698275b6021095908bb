@@ -1,0 +1,8 @@
+
+‰python:S1192P"FDefine a constant instead of duplicating this literal '.onnx' 3 times.(¤ÛÃ·úÿÿÿÿJ$d698dfde-4881-425d-8b5e-3c36f9b7f390
+python:S3358Ñ"IExtract this nested conditional expression into an independent statement.(¡Ç¾¼ıÿÿÿÿJ$7d4af202-8a83-4591-a19c-fdbf62a8acc2
+˜python:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ûğ·úÿÿÿÿÿJ$467a2c6b-5787-4659-bbc6-7db435dfa110
+tpython:S1481ã"0Replace the unused local variable "ch" with "_".(ª‚ÀüúÿÿÿÿJ$5c3483c4-b275-4f59-9c73-74ab75540c68
+|python:S1481ã"8Replace the unused local variable "batch_size" with "_".(ª‚ÀüúÿÿÿÿJ$8db41be7-d19f-44a4-b53f-5a7a66ff075a
+python:S107¶"JFunction "run" has 23 parameters, which is greater than the 13 authorized.(‘¦„×üÿÿÿÿJ$1d287132-0982-430a-8a40-aa9e38bc54ce
+’python:S3776µ"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(ñÓá]J$e00fc512-6c74-413d-9adc-84259a324b90

@@ -1,0 +1,7 @@
+
+‘python:S2208"GImport only needed names or import the module and then use its members.(‚ë‚£ÿÿÿÿÿ8‚Àø›º2J$f9ce12d8-a9ef-4463-b7f8-698825ced176
+python:S107#"JFunction "run" has 27 parameters, which is greater than the 13 authorized.(Õ×¢°8Àø›º2J$dd23df39-689c-4b34-a29f-73109c821d6f
+qpython:S1481Œ"&Remove the unused local variable "gn".(Î–àúÿÿÿÿ8Àø›º2J$0000e5e7-4ceb-4f41-9529-9a422b37699f
+™python:S3776""URefactor this function to reduce its Cognitive Complexity from 138 to the 15 allowed.(ñÓá]8”Àø›º2J$5e5a3b3f-a6d3-44d8-91db-af19c81bd682
+ipython:S125‹"Remove this commented out code.(·¨¢ßûÿÿÿÿ8ŸÀø›º2J$64e4e2a9-d604-4723-a91c-eb1d184b4aae
+python:S3358Ã"IExtract this nested conditional expression into an independent statement.(ĞòË8 Àø›º2J$35b54932-1fd5-4dc6-b24e-5e5c366a29e1
